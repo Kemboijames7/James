@@ -1,11 +1,12 @@
 # James
 Hi there 👋, I am James Kemboi!
 
-I'm a Software Developer who is passionate  with a strong focus on creating accessible open-source solutions leveraging technology to solve real-world problems.My expertise spans  mongoDB, Express, React, Node, JavaScript, Graphql, HTML and CSS. 
-Currently, I’m focused on building resources for beginners entering tech while working on exciting projects that challenge me to innovate. If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
 
-🛠️ Skills & Tools
-My Current Tech Stack professionally is
+I'm a Software Developer who is passionate  with a strong focus on creating accessible open-source solutions leveraging technology to solve real-world problems.My expertise spans  mongoDB, Express, React, Node, JavaScript, Graphql, HTML and CSS. 
+
+Currently, I’m focused on building exciting projects that challenge me to innovate. If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
+
+🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
