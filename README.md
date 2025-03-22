@@ -36,7 +36,6 @@ Currently, I’m focused on building exciting projects that challenge me to inno
 
 
 
-<div align="center">
 # My GitHub Profile
 
 Here's a summary of my most used languages:
@@ -278,8 +277,4 @@ Here's a summary of my most used languages:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
 
