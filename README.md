@@ -35,4 +35,5 @@ Currently, I’m focused on building exciting projects that challenge me to inno
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3131313131312f747769747465722d737175617265642e706e67](https://github.com/user-attachments/assets/cd515a72-c95d-4b72-8b85-d2a87927be2c)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kemboijames7&layout=compact&theme=react)
 
