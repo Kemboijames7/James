@@ -1,4 +1,4 @@
-# James
+
 # Hi there 👋, I am James Kemboi!
 
 
@@ -6,7 +6,7 @@ I'm a Software Developer who is passionate  with a strong focus on creating acce
 
 Currently, I’m focused on building exciting projects that challenge me to innovate. If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -17,7 +17,7 @@ Currently, I’m focused on building exciting projects that challenge me to inno
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
      
 
-#  :octocat: My stats
+### :octocat: My stats
 
 ###  Collaboration & Design Tools
 
@@ -25,7 +25,7 @@ Currently, I’m focused on building exciting projects that challenge me to inno
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoWidth=20)
 
 
-##  🤝 Get in touch
+###  🤝 Get in touch
 
 
 
