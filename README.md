@@ -19,13 +19,13 @@ Currently, I’m focused on building exciting projects that challenge me to inno
 
 #  :octocat: My stats
 
-#  Collaboration & Design Tools
+###  Collaboration & Design Tools
 
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoWidth=20)
 
 
-#  🤝 Get in touch
+##  🤝 Get in touch
 
 
 
