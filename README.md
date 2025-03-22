@@ -1,7 +1,17 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/f0546392-33fe-4055-8dca-a0c124277786)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b](https://github.com/user-attachments/assets/a4f636e3-9f7e-4662-ab14-6dec02ae58ef)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/9e749728-ffc0-4a66-a018-e71366e5d54f)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/8efe6faa-356d-414e-882e-bf43bc5bcf53)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/ba60bf80-880b-4ff3-81e5-9073a65f0759)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b](https://github.com/user-attachments/assets/1c12faa8-cf89-4f50-987b-85dd5e85c8a9)![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2d776f72646d61726b2e737667](https://github.com/user-attachments/assets/3869b24e-0a4f-4052-ba86-04abde5d5c6f)![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667](https://github.com/user-attachments/assets/99c5bfb7-dea2-4ac1-845b-c869b3ab8305)![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667](https://github.com/user-attachments/assets/1a8a3cda-3e5f-4e1c-9d8d-077d894a4118)# James
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg)
+
+# James
 Hi there 👋, I am James Kemboi!
 
 I'm a Software Developer who is passionate  with a strong focus on creating accessible open-source solutions leveraging technology to solve real-world problems.My expertise spans  mongoDB, Express, React, Node, JavaScript, Graphql, HTML and CSS. I enjoy diving into the intricacies of windows systems
 Currently, I’m focused on building resources for beginners entering tech while working on exciting projects that challenge me to innovate. If you’re looking for someone who loves collaboration, open-source contributions, or just a coffee chat about tech, feel free to reach out! 🚀
 
 My Current Tech Stack professionally is
+
+
